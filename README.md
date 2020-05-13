@@ -10,3 +10,5 @@ b
 
 Before branch
 after creating branch
+
+add this line from master branch
