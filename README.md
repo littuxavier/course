@@ -11,4 +11,3 @@ b
 Before branch
 after creating branch
 
-added from master branch
